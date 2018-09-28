@@ -1,1 +1,4 @@
-ReactDOMRe.renderToElementWithId(<MyComponent message="Hello!" />, "app");
+ReactDOMRe.renderToElementWithId(
+  <Layout width=Window.width height=Window.height />,
+  "loader",
+);

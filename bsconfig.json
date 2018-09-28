@@ -15,6 +15,7 @@
   "namespace": true,
   "bs-dependencies": [
     "reason-react",
+    "@ostera/reiki",
   ],
   "refmt": 3
 }
